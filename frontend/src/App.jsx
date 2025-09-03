@@ -11,7 +11,7 @@ function App() {
 
   return (
     <div>
-      <h1>Frontend + Backend CI/CD Demo</h1>
+      <h1>Fuck you mother fucker</h1>
       <p>{message}</p>
     </div>
   );
